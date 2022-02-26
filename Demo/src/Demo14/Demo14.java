@@ -1,0 +1,11 @@
+package Demo14;
+
+public class Demo14 {
+
+	public static void main(String[] args) 
+	{
+		String s= 50 + 50 +" Error" + 50;
+		System.out.println(s);
+	}
+
+}
